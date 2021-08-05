@@ -1,0 +1,3 @@
+from domain import sub_domain_service
+
+sub_domain_service.some_service_function()
